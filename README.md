@@ -1,24 +1,33 @@
-# Index.html
+# Risk It All
 
-<!-- Header Section -->
-<header>
-    <h1>Risk It All</h1>
-</header>
+A beginner HTML project created to practise building and structuring a simple webpage.
 
-<!-- Navigation Section -->
-<nav>
-        <a href="#">Home</a> |
-        <a href="#">About</a> |
-        <a href="#">Contact</a>
-</nav>
+## About the Project
 
-<!-- Main Content Section -->
-<main>
-    <h2>About This Page</h2>
-    <p>This is where passion and intrest lies ,therefore i give it all to career transformation </p>
-</main>
+Risk It All is a simple personal webpage representing passion, learning, personal growth and career transformation.
 
-<!-- Footer Section -->
-<footer>
-    <p>Contact: atienobeatrice657@gmail.com</p>
-</footer>
+## Features
+
+- Webpage heading and introduction
+- Navigation links
+- Home section
+- About section
+- Contact section
+- Footer
+
+## Technologies Used
+
+- HTML5
+
+## Concepts Practised
+
+- HTML document structure
+- Semantic HTML elements
+- Headings and paragraphs
+- Navigation links
+- Section IDs and internal links
+- Basic webpage organisation
+
+## Project Structure
+
+- `index.html` – Contains the webpage structure and content.
